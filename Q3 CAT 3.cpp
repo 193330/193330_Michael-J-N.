@@ -4,7 +4,8 @@
 
 using namespace std;
 
-int main() {
+int main() {//Executes within the curly brackets
+    //Variable declaration
     string fullName, course;
     float score;
 
