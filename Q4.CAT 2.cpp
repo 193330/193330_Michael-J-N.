@@ -1,4 +1,4 @@
-Q4.
+//Q4.
 #include <iostream>//Preprocessor directive
 using namespace std; enables use of numbers and variables
 int main() {Executes within the brackets
