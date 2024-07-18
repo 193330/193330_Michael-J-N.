@@ -1,4 +1,4 @@
-Q7.
+//Q7.
 #include <iostream>//Library for the use of the output/input operations
 using namespace std;//Enables use of the standard library and variables
 
