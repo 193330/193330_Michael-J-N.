@@ -1,3 +1,4 @@
+Q2.
 #include <iostream>//enables the use of the input&output
 #include <string>//use the string class library
 
