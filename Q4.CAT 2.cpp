@@ -1,6 +1,7 @@
-#include <iostream>
-using namespace std;
-int main() {
+#include <iostream>//Preprocessor directive
+using namespace std; enables use of numbers and variables
+int main() {Executes within the brackets
+    //Variable declaration
     int num1, num2;
 
     // Asking user for input
