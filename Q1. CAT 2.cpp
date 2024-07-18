@@ -1,7 +1,7 @@
-//simple C++ application to check if a customer is qualified for a loan.
-#include <iostream>//Header file which enables us work with output&input
+//Q1.simple C++ application to check if a customer qualifies for a loan.
+#include <iostream>//Header file which enables us to work with output&input
 #include <string>//string file that enables us to input text 
-using namespace std;//Enables usage of names&Variables in std library.
+using namespace std;//Enables usage of names&Variables in the std library.
 
 int main() //Its a function that executes all inside the curly brackets.
 {
