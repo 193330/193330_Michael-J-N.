@@ -1,3 +1,4 @@
+//Q9.
 #include <iostream>//Preprocessor directives for the use of the input/output
 using namespace std;//Enables usage of names&Variables in std library
 
