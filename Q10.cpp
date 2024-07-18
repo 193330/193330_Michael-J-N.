@@ -1,4 +1,4 @@
-Q10.CAT2
+//Q10.CAT2
 #include <iostream>//executes within the curly brackets
 using namespace std;//Enables us names and variable use
 
